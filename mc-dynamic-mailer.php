@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Mars Dynamic Mailer
  * Description: Sistema de envío masivo con soporte para CSV flexible, tracking de aperturas y deduplicación.
- * Version: 1.0.0
+ * Version: 1.1.2
  * Author: AI-Vault Agent
  * Text Domain: mc-dynamic-mailer
  */
