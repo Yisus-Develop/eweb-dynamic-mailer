@@ -1,7 +1,7 @@
 # EWEB Dynamic Mailer
 
 [![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-blue.svg)](https://wordpress.org/)
-[![PHP](https://img.shields.io/badge/PHP-7.4%2B-8892bf.svg)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-8.1%2B-8892bf.svg)](https://www.php.net/)
 [![License](https://img.shields.io/badge/License-GPLv2%2B-orange.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
 High-performance Mass Mailing System for WordPress. Optimized for flexibility with custom CSV support and built-in **Open Tracking**. Part of the **EWEB Plugin Suite**.
